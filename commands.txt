@@ -2,4 +2,10 @@
 If you torture the data long enough, it will confess.
 Ronald Coase, Economist
 
-Shebah Assignmnet
+Shebah Assignment:- commands learned 
+git clone <repo-url>        # Clone a remote repository to your computer
+git status                  # Show the status of changes in your local repo
+git add <filename>          # Stage a file to be committed
+git commit -m "message"     # Save your staged changes with a message
+git push origin main        # Push your local commits to GitHub
+git pull                    # Get the latest updates from GitHub
